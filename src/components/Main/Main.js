@@ -14,6 +14,7 @@ export default function Main() {
           type={animal.type}
           top={animal.top}
           left={animal.left}
+          says={animal.says}
         />
       ))}
     </main>
