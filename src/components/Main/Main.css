@@ -6,4 +6,5 @@ main {
   height: 640px;
   align-content: flex-start;
   position: relative;
+  background-image: url('../../background.png');
 }
